@@ -2,3 +2,4 @@ test
 is line 2
 [Chorus line for server!]
 first commit in feature
+second commit in feature
