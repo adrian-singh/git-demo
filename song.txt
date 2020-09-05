@@ -3,3 +3,5 @@ is line 2
 [Chorus line for server!]
 first commit in feature
 second commit in feature
+3rd commit
+4th commit
