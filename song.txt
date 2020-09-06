@@ -8,3 +8,4 @@ second commit in feature
 final version
 
 New non conflict part
+changes from feature
